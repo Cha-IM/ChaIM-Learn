@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "1263feb49c383ee9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cf7556d2f46bf48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "027d0817b8eefb2a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcf1ae6d1a12cdfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "80ad69267cbe4f0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea144b48a821436",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "259acf9864874ceb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2caf98a66f346d69",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6326f52b9d012002",
+    "type": "split",
+    "children": [
+      {
+        "id": "3adc56b48006c581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea86a65328be0039",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c954379fc857a6a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bbdde154a1875b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c3e4dc29843063f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IT-1/Uke 11-12 - Design og UX/Øktplan.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bea144b48a821436",
+  "lastOpenFiles": [
+    "LICENSE",
+    "Utvikling/Github/Nyttige fakta om Github.md",
+    "Utvikling/JSON/Nyttige fakta om JSON.md",
+    "Utvikling/JSON/JSON - Artikkel.md",
+    "Utvikling/JSON",
+    "Utvikling/Github",
+    "Utvikling",
+    "IT-1/Uke 11-12 - Design og UX/Oppgave.md",
+    "IT-1/Uke 11-12 - Design og UX/Grupper.md",
+    "IT-1/Uke 11-12 - Design og UX/Øktplan.md",
+    "Veiledning i skolen/Praktisk yrkesteori.md",
+    "IT-1/Uke 11-12 - Design og UX/Uke 11-12 - Design og UX.md",
+    "IT-1/Uke 11-12 - Design og UX",
+    "IT-1",
+    "Veiledning i skolen",
+    "Welcome.md"
+  ]
+}
