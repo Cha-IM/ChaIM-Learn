@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9cf7556d2f46bf48",
+        "id": "aad59e140c5b0bd4",
         "type": "tabs",
         "children": [
           {
-            "id": "027d0817b8eefb2a",
+            "id": "65e30311f5bdea41",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Utvikling/Github/Gruppearbeid i Github.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Utvikling/Github/Gruppearbeid i Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Utvikling/Github/Gruppearbeid i Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-1/Uke 11-12 - Design og UX/Øktplan.md"
+                "file": "Utvikling/Github/Gruppearbeid i Github.md"
               }
             }
           }
@@ -140,18 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bea144b48a821436",
+  "active": "65e30311f5bdea41",
   "lastOpenFiles": [
-    "LICENSE",
     "Utvikling/Github/Nyttige fakta om Github.md",
-    "Utvikling/JSON/Nyttige fakta om JSON.md",
+    "Utvikling/Github/Gruppearbeid i Github.md",
     "Utvikling/JSON/JSON - Artikkel.md",
+    "Utvikling/JSON/Nyttige fakta om JSON.md",
+    "IT-1/Uke 11-12 - Design og UX/Øktplan.md",
+    "LICENSE",
     "Utvikling/JSON",
     "Utvikling/Github",
     "Utvikling",
     "IT-1/Uke 11-12 - Design og UX/Oppgave.md",
     "IT-1/Uke 11-12 - Design og UX/Grupper.md",
-    "IT-1/Uke 11-12 - Design og UX/Øktplan.md",
     "Veiledning i skolen/Praktisk yrkesteori.md",
     "IT-1/Uke 11-12 - Design og UX/Uke 11-12 - Design og UX.md",
     "IT-1/Uke 11-12 - Design og UX",
