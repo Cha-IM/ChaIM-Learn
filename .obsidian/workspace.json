@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utvikling/Github/Gruppearbeid i Github.md",
+                "file": "Teknologiforståelse/Nettverk/Mininet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utvikling/Github/Gruppearbeid i Github.md",
+                "file": "Teknologiforståelse/Nettverk/Mininet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utvikling/Github/Gruppearbeid i Github.md",
+                "file": "Teknologiforståelse/Nettverk/Mininet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utvikling/Github/Gruppearbeid i Github.md"
+                "file": "Teknologiforståelse/Nettverk/Mininet.md"
               }
             }
           }
@@ -148,22 +148,11 @@
   },
   "active": "65e30311f5bdea41",
   "lastOpenFiles": [
-    "Utvikling/Github/Nyttige fakta om Github.md",
+    "Teknologiforståelse/Nettverkslab/Få tilgang til Azure studentkonto.md",
+    "Teknologiforståelse/Nettverk/Mininet.md",
+    "Teknologiforståelse/Nettverk",
+    "Teknologiforståelse/Nettverkslab/Sette opp nettverk med Unifi-ruter.md",
     "Utvikling/Github/Gruppearbeid i Github.md",
-    "Utvikling/JSON/JSON - Artikkel.md",
-    "Utvikling/JSON/Nyttige fakta om JSON.md",
-    "IT-1/Uke 11-12 - Design og UX/Øktplan.md",
-    "LICENSE",
-    "Utvikling/JSON",
-    "Utvikling/Github",
-    "Utvikling",
-    "IT-1/Uke 11-12 - Design og UX/Oppgave.md",
-    "IT-1/Uke 11-12 - Design og UX/Grupper.md",
-    "Veiledning i skolen/Praktisk yrkesteori.md",
-    "IT-1/Uke 11-12 - Design og UX/Uke 11-12 - Design og UX.md",
-    "IT-1/Uke 11-12 - Design og UX",
-    "IT-1",
-    "Veiledning i skolen",
-    "Welcome.md"
-  ]
-}
+    "Teknologiforståelse/Nettverkslab",
+    "Teknologiforståelse",
+ 
