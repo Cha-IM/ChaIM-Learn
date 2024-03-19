@@ -9,4 +9,5 @@ Når du har pushet må de andre på gruppa *pulle* siste versjon av repoet for �
 Det kan skje noen uheldige ting når vi gjør dette her er noen vanlige problemer.
 1. Du har filer åpne som du ikke har lagret når du puller siste versjon fra Github.
 	- Du vil da få en konflikt mellom filene du har åpne og siste versjon av filene du nettopp har lastet ned. Derfor må du huske å **lagre filene dine og pushe endringer FØR du puller**.
-2. 
+2. **Merge conflict**
+	- Du får en feilmelding i Github desktop hvis du prøver å pushe en endring der du har endret noe **i samme linje** som noen andre har endret noe. Det er derfor lurt å være enig om hvilke deler av filen dere jobber på, og passe på at dere jobber på forskjellige deler av filen.
