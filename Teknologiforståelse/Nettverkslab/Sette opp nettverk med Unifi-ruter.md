@@ -1,3 +1,4 @@
+[[Nettverkslab|<--Tilbake til Nettverkslab]]
 # Nettverksoppsett i lab
 
 ## 1. Komponenter og kabling
@@ -101,3 +102,5 @@ Vi kan ikke bruke nyeste versjon av Unifi Controller, men vi bruker version 7.0.
 	* _Country or Territory_: Norway (tips: trykk på O, så er Norge rett over Oman)
 	* _Timezone_: (UTC+1) Europe/Oslo
 15. Trykk på **Finish**
+
+[[Nettverkslab|<--Tilbake til Nettverkslab]]
